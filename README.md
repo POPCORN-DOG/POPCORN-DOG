@@ -2,7 +2,7 @@
 
 ## Yeongjin Kim <code>@dudwlsrla21</code> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPOPCORN-DOG&count_bg=%236CDD16&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 안녕하세요. 빅데이터 공모전 2회 수상과 6개월의 스마트 데이터 전문교육, 약 1년의 통계청 빅데이터 통
-계과에서의 실무 경험을 통해 R, Python, HTML, JavaScript, SQL을 학습하며 문제 해결에 필요한
+계과에서의 실무 경험을 통해 R, Python, HTML, SQL, JavaScript을 학습하며 문제 해결에 필요한
 정확한 데이터 수집과 분석 역량을 키웠습니다.
 
 ### 🎓 Profile
