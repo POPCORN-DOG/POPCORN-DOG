@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 한남대학교 경제/통계학과 수료
 - 통계청 빅데이터통계과 분석보조
 
-### interests
+### <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji>interests
 - 불가능을 가능하게 만들기 위해 항상 생각합니다.
 - 클린 코드와 함께 유지보수가 용이한 코드 작성에 대해 고민합니다.
 - 현재 Django와 Pytorch에 관심을 두고 공부 중 입니다.
