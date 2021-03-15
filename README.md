@@ -17,7 +17,7 @@
 ### 
 - 현재 github를 새 단장하고 있습니다.
 - 현재 goormIDE를 활용한 <code>Django</code>로 설문지를 만들고 있습니다.
-- 현재 <code>Pytorch</code>와 <code>Tensorflow2.0</code>에 관심을 두고 공부 중 입니다.
+- 현재 <code>Pytorch</code>, <code>Tensorflow2.0</code>, <code>Stock_data</code>에 관심을 두고 공부 중 입니다.
 
  <div align=center>
   
