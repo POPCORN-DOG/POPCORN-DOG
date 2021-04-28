@@ -16,8 +16,8 @@
 
 ### 
 - 현재 github를 새 단장하고 있습니다.
-- 현재 `MBIT 테스트 페이지`를 만들고 있습니다.
-- 현재 <code>Stock_data</code>에 관심을 두고 공부 중 입니다.
+- 현재 **`MBIT 테스트 페이지`** 를 만들고 있습니다.
+- 현재 **`Stock_data</code>`** 에 관심을 두고 공부 중 입니다.
 
  <div align=center>
   
